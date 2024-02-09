@@ -2,7 +2,7 @@ import Popover from './popover';
 
 const popoverFactory = new Popover();
 let actualPopovers = [];
-const popoverText = `And here's some amazing content. It's very engaging. Right?`;
+const popoverText = 'And here\'s some amazing content. It\'s very engaging. Right?';
 
 const container = document.querySelector('.container');
 
