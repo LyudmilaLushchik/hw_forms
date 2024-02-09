@@ -1,3 +1,5 @@
+![CI](https://github.com/LyudmilaLushchik/hw_forms/actions/workflows/web.yml/badge.svg)
+
 # Домашнее задание к занятию "Работа с HTML-формами"
 
 Правила сдачи задания:
